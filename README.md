@@ -53,7 +53,7 @@ Machine learning project for classifying reviews by sentiment.
 
 Код и результаты находятся в Google Colab:
 
-[Открыть Google Colab](https://colab.research.google.com/drive/1qZelk_rWh-VhKA743W7oYiupWTzZqXvz)
+[Открыть Google Colab](https://colab.research.google.com/drive/1O_N1c8qdj8f2ZdPy4X27jGGcwf3bIEQi?usp=sharing)
 
 ## Вывод
 
